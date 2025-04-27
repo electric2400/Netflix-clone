@@ -1,0 +1,16 @@
+.hero .carousel-item img {
+  height: 36rem;
+  object-fit: cover;
+  filter: brightness(80%) contrast(90%);
+}
+
+.hero .carousel-indicators {
+  list-style: none;
+}
+
+
+.hero .carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}

@@ -1,0 +1,227 @@
+
+.first-page {
+  background-image: url(/image.net.png);
+  height: 612px;
+  background-size: cover;
+}
+
+.header {
+  display: flex;
+  color: red;
+  margin: 0px 130px;
+  gap: 730px;
+  padding-top: 20px;
+}
+
+.title {
+font-weight: bold;
+font-size: 40px;
+font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;;
+}
+
+.btn {
+  color: white;
+  background-color: red;
+  height: 35px;
+  width: 87px;
+  margin-top: 7px;
+  font-size: 14px;
+  font-weight: 500;
+ }
+
+.center {
+  line-height: 50px;
+}
+
+.unlimited {
+  font-size: 50px;
+  font-weight: bolder;
+  color: white;
+}
+
+.search-bar {
+  margin-left: 340px;
+  border-radius: 5px;
+  font-size: 14px;
+  border-width: 2px;
+  border-color: rgba(0, 0, 0, 0);
+  opacity: 0.7;
+  background-color: black;
+  width: 350px;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  
+  padding-left: 10px;
+}
+
+.search-bar::placeholder {
+  font-size: 14px;
+  padding-top: 10px;
+  color: white;
+  font-weight: 500;
+  padding-left: 10px;
+  
+}
+
+.get-started {
+  background-color: red;
+  text-decoration: none;
+  color: white;
+  padding: 18px 60px 18px 24px;
+  vertical-align: middle;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.tv {
+  background-color: black;
+  padding-right: 70px;
+  padding-left: 90px;
+  color: white;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.phone {
+  background-color: black;
+  color: white;
+  padding-bottom: 50px;
+  
+}
+
+.single-column {
+  background-color: black;
+  color: white;
+  
+}
+.yo {
+  padding-left: 155px;
+  font-size: 14px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+.cartoon {
+  background-color: black;
+  color: white;
+  padding-top: 70px;
+  justify-content: space-between;
+}
+
+.faq {
+  color: white;
+  background-color: black;
+  padding-top: 100px;
+}
+ 
+.footer{
+  background-color: black;
+  display: flex;
+  padding: 90px 330px 90px 130px;
+  line-height: 35px;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.footer >  ul a {
+  color: rgb(176, 165, 165);
+}
+
+.footer >  ul  {
+  list-style: none;
+}
+ 
+/* contact-page */
+
+ .contact-header {
+  display: flex;
+   color: red;
+   justify-content: space-evenly;
+   gap: 100px;
+   height: 70px;
+   background-color: black;
+   padding-top: 20px;
+   padding-right: 50px;
+ }
+.w-100{padding-left: 20px;}
+ .w-100::placeholder{padding-left: 0px;}
+
+ .FAQ-header {
+  display: flex;
+   color: red;
+   justify-content: space-between;
+   gap: 100px;
+   height: 70px;
+   background-color: black;
+   padding-top: 20px;
+   padding-right: 50px;
+ }
+
+ .wtw-header {
+  display: flex;
+   color: red;
+   justify-content: space-between;
+   gap: 100px;
+   height: 70px;
+   background-color: black;
+   padding-top: 20px;
+   padding-right: 50px;
+ }
+
+ .btnc1 {
+  color: white;
+  background-color: black;
+  border-color: rgb(178, 173, 163);
+  width: 115px;
+  font-weight: 500;
+  border-radius: 4px;
+  padding-bottom: 2px;
+  border-width: 1px;
+ }
+
+.btnc2 {
+  color: white;
+  background-color: red;
+  width: 85px;
+  font-weight: 500;
+  border-radius: 7px;
+  padding-bottom: 5px;
+}
+
+.solution{
+  font-weight: 500;
+  padding: 30px 315px;
+}
+
+.solution > ul  {
+ font-size: 18px;
+ text-decoration: none;
+ color: black;
+ line-height: 50px;
+}
+
+.solution > ul a {
+ color: black;
+}
+
+.cufooter {
+ justify-content: center;
+  color: whitesmoke;
+ background-color: black;
+ padding: 50px 320px;
+}
+
+.image {
+  height: 480px;
+}
+.image_inline {
+  height: 480px;
+}
+
+.cufooter2 {
+   color: whitesmoke;
+  background-color: black;
+  padding: 30px 55px;
+ }
+ 
